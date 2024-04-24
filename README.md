@@ -1,5 +1,5 @@
-# Kobo Toolbox to Google Sheets: Google Apps Script
-Google Apps script to sends a call to Kobo Toolbox and return data from form submissions to a Google Sheet.
+# KoboToolbox to Google Sheets: Google Apps Script
+Google Apps script to sends a call to KoboToolbox and return data from form submissions to a Google Sheet.
 
 This script has a higher performance than the Google Sheets `IMPORTDATA()` function (which can lag if lots of data is imported), and eliminates the need for a paid API connection plugin.
 
