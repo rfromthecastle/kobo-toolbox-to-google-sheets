@@ -4,7 +4,8 @@
  * This script has a higher performance than the Google Sheets IMPORTDATA() function,
  * and can be set to a scheduler within Google Apps Script.
  *
- * To add to your Google Sheet, open Extensions > Apps Script and paste into Editor > Code.gs
+ * To add to your Google Sheet, open Extensions > Apps Script and paste into Editor > Code.gs.
+ * A custom menu will appear with a menu item to run the script.
  *
  * @return KoboToolbox submissions in columns and rows.
  * 
