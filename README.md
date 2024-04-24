@@ -3,6 +3,8 @@ Google Apps script to sends a call to Kobo Toolbox and return data from form sub
 
 This script has a higher performance than the Google Sheets `IMPORTDATA()` function (which can lag if lots of data is imported), and eliminates the need for a paid API connection plugin.
 
+Note that this script only works for KoboToolbox projects that **do not require authentication to see forms and submit data**.
+
 To add to your Google Sheet, open Extensions > Apps Script and paste into Editor > Code.gs.
 
 ![image](https://github.com/rfromthecastle/kobo-toolbox-to-google-sheets/assets/18660080/6996e604-0a99-4d9a-a615-5a36061829b9)
@@ -26,5 +28,3 @@ Update the modal as follows:
 Then choose your update interval and Save:
 
 ![image](https://github.com/rfromthecastle/kobo-toolbox-to-google-sheets/assets/18660080/da1d628e-7c9b-4ec4-b434-3231ef2cfedc)
-
-Note that this script only works for KoboToolbox projects that **do not require authentication to see forms and submit data**.
