@@ -5,6 +5,8 @@ This script has a higher performance than the Google Sheets `IMPORTDATA()` funct
 
 Note that this script only works for KoboToolbox projects that **do not require authentication to see forms and submit data**.
 
+Before starting, rename the sheet to which you want to import the data to 'Data'.
+
 To add to your Google Sheet, open Extensions > Apps Script and paste into Editor > Code.gs.
 
 ![image](https://github.com/rfromthecastle/kobo-toolbox-to-google-sheets/assets/18660080/6996e604-0a99-4d9a-a615-5a36061829b9)
