@@ -19,7 +19,7 @@ A custom menu will appear with a menu item to run the script.
 
 ![image](https://github.com/rfromthecastle/kobo-toolbox-to-google-sheets/assets/18660080/83130738-3e46-4e8c-84a7-ffb2aa831475)
 
-Note that the KoboToolbox server needs up to 15 mins to make collected data from a project available through the API, so a slight lag may be experienced between form submissions and this being able to be pulled into the Google Sheet.
+Note that the KoboToolbox server needs up to 5 mins to make collected data from a project available through the API, so a slight lag may be experienced between form submissions and this being able to be pulled into the Google Sheet.
 
 The script can also can be set to a scheduler within Google Apps Script to automatically import data at a set time interval. To do so, open Extensions > Apps Script and go to Triggers. Select Add Trigger.
 
