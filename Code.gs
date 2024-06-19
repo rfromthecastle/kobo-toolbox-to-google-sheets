@@ -4,6 +4,8 @@
  * This script has a higher performance than the Google Sheets IMPORTDATA() function,
  * and can be set to a scheduler within Google Apps Script.
  *
+ * Before starting, rename the tab to which you want to import the data to 'Data'.
+ *
  * To add to your Google Sheet, open Extensions > Apps Script and paste into Editor > Code.gs.
  * A custom menu will appear with a menu item to run the script.
  *
